@@ -12,7 +12,7 @@
 		skills and my learning experiences so that I can display websites I have made to attract clients and or jobs I am
 		looking for</p>
 	<h1>Use Case</h1>
-	<p></p>
+	<p>at demo day I hand out my cards with my website link on it the business owner is interested goes home and logs onto his mac and searches url. He then finds my website to be user friendly easy to find contact information and great display of work I have done he then calls me to build a simple website using wordpress for his business.  </p>
 	<h2>Audience</h2>
 	<p>My main audience target is going to be clients or for jobs I am looking to apply in.</p>
 	<main>
