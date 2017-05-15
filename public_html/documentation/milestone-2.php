@@ -1,9 +1,20 @@
 <!DOCTYPE html>
-<p>since I am making a simple site to showcase myself Its going to be very user friendly
-and I want the user to have a good understanding on the work I do and how professional I am.
-I am creating a about me to let the user know the background I come from and the experience I have. below that I will Have my current projects section showcasing some of the project I am working on currently. below that I will have past projects to showcase my websites that I have created and show off my work. And finally i will have my contact me section that shows the best way to get a hold of me.  </p>
+<html>
+	<head>
+		<meta charset="utf-8" />
+	</head>
+	<body>
+		<P>On my desktop wireframe I was going for the least amount of scroll as possible so everything is in front of peoples faces and they can just click and view instead of having to scroll down on my mobile wireframe is much more scroll heavy but each section has its own full scroll so that its easy to read and to look and and touch on to view the pictures I want the contact info to be easy for them to touch so they don't have to zoom in to click it.  </P>
+	</body>
+<alt> desktop wireframe
+	<img src="images/desktop.pngggg.png" >
+</alt>
+
+	<alt>  iphone wirefram
+	<img src="images/iphonessss.%20png.png" >
+	</alt>
+</html>
 
 
-<img src="images/desktop.png" >
 
-<img src="images/iphone.png" >
+
