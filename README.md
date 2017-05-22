@@ -33,3 +33,17 @@ Please complete the **Content Strategy** and **update your HTML structure** at t
 ## Edits &amp; Suggestions
 - HTML structure is incorrect. Please use the proper HTML structure with all required elements and tags.
 - Always use the `alt` attribute on all `<img>` tags. 
+
+### Updated Feedback 5/22
+This is a great improvement on the wireframes. Now that there's more detail here, you'll have a much better guide for when you start coding. I can already see the grid system and HTML structure just by looking at these wireframes.
+
+Think about lining up some of the content sections and the form a little more consistently, and be careful with the size of the picture at the top. If your content grows and the page starts to get long, I'd think about including a top nav.
+
+Your Content Strategy could still use some improvement, and there are still some issues with the HTML. See Edits &amp; Suggestions below.
+
+Thanks for submitting updates. Your PWP Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development on your PWP. Build your layout directly inside the `/public_html` directory. You do not need to use the `/documentation` directory any more.
+
+### Edits &amp; Suggestions
+- Don't use capital letters in your HTML tags - this is vintage in a bad way.
+- Both your `<img>` tags need to be moved up inside the `<body>` tag.
+- `<title>` tag is missing 
