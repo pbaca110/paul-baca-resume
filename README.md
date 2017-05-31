@@ -47,3 +47,6 @@ Thanks for submitting updates. Your PWP Milestone 2a passes at [Tier II](https:/
 - Don't use capital letters in your HTML tags - this is vintage in a bad way.
 - Both your `<img>` tags need to be moved up inside the `<body>` tag.
 - `<title>` tag is missing 
+
+## Milestone 2b Feedback
+You have some work to do to catch up - detailed feedback given via Slack. Your PWP Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
