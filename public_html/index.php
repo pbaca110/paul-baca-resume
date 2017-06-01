@@ -58,7 +58,7 @@
 	<div class="row">
 		<div class="col-md-3"></div>
 		<div class="col-md-6 center-block">
-	<form class="form-horizontal well" action="email.php">
+	<form id="contact-form" method="POST" class="form-horizontal well" action="email.php php/mailer.php">
 		<div class="form-group">
 			<label for="name">Name</label>
 			<div class="input-group">
@@ -98,6 +98,10 @@
 		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 	</form>
+
+			<div id="output-area"></div>
+
+
 		</div>
 		</div>
 
