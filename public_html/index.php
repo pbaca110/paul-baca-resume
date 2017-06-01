@@ -95,6 +95,7 @@
 				<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
 			</div>
 		</div>
+		<div class="g-recaptcha" data-sitekey="6Le7sCMUAAAAAOD2pHphRE38H9VvNt5pVFw7r91Z"></div>
 		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 	</form>
