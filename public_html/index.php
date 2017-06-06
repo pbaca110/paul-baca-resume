@@ -29,13 +29,14 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- Font awesome-->
-		<title>home</title>
+		<title>paulabq</title>
 	</head>
 	<body class="parallax">
+		<div class="container">
 		 <div class="row">
 			 <div class="col-xs-9"></div>
 			 <div class="col-xs-3">
-				 <a href="www.linkedin.com/in/paul-baca" target="_blank"> <i class="fa fa-linkedin" aria-hidden="true"></i></a>
+				 <a href="https://www.linkedin.com/in/paul-baca/" target="_blank"> <i class="fa fa-linkedin" aria-hidden="true"></i></a>
 				 <a href="https://github.com/pbaca110" target="_blank"> <i class="fa fa-github" aria-hidden="true"></i> </a>
 			 </div>
 		 </div>
@@ -58,7 +59,7 @@
 	<div class="row">
 		<div class="col-md-3"></div>
 		<div class="col-md-6 center-block">
-	<form id="contact-form" method="POST" class="form-horizontal well" action="email.php php/mailer.php">
+	<form id="contact-form" method="POST" class="form-horizontal well" action="php/mailer.php">
 		<div class="form-group">
 			<label for="name">Name</label>
 			<div class="input-group">
@@ -105,7 +106,7 @@
 
 		</div>
 		</div>
-
+</div>
 	</body>
 
 
