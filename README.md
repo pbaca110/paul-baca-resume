@@ -50,3 +50,17 @@ Thanks for submitting updates. Your PWP Milestone 2a passes at [Tier II](https:/
 
 ## Milestone 2b Feedback
 You have some work to do to catch up - detailed feedback given via Slack. Your PWP Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+# Final Feedback
+
+Your site may be simple but it is well put together. I love the background image and your photo (even though it looks like you are in a football). I would recommend instituting fancy box as your portfolio grows. Adding an image statically to the page would not scale well and might cause you a headache in the future. Your contact form works perfectly, and the JS validation will not let me submit the form if anything is missing. I know your site is a work in progress but I am excited to see it advance as you grow as a web developer. You only have a few small errors in your HTML that will not be hard to fix when the time comes. I would take a look at this link https://validator.w3.org/nu/?doc=http%3A%2F%2Fpaulabq.com%2F. Again congrats and graduating the class, dont be a stranger and if you need a refernce let me know. 
+
+## Grade: Tier III
+
+## Final Grade: 
+
+Milestone 1 - 20%: Tier II 40(0.2) = 8
+Milestone 2a - 20%: Tier II 40(0.2) = 8
+Milestone 2b - 10%: Tier II 10(0.2) = 2
+Milestone 3 - 50%: Tier III 20(0.75) = 15
+33/40 = 82.5% 
